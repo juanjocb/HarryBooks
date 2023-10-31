@@ -1,0 +1,17 @@
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .ruta{
+    margin: 0 15px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #ffc107;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+
